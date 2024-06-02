@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Akshatgupta19012006
 - 👀 I’m interested in ...Coding , Hackathon 
-- 🌱 I’m currently going to join college as a B.Tech CSE(Data Science) Student 
+- 🌱 I’m currently pursuing  B.Tech CSE(Data Science) from Pranveer Singh Institute Of Technology  
 - 💞️ I’m looking to collaborate on ...Coding Practice 
-- 📫 How to reach me ... Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=akshat-gupta-psit-mtmhss
+- 📫 How to reach me ... Follow me on LinkedIn: https://linkedin.com/in/akshat-gupta-csds
 
 
 <!---
